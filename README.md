@@ -23,3 +23,29 @@ Implement an algorithm for making a simple calculator with all the operators (+,
 7: If user uses / operator then divide the numbers.\
 8: if user uses % operator give remainder.\
 5: Print the answer for the user on the screen by using DMAS rule.\
+
+***Objective 2: PSEUDOCODE***\
+**Task 03**\
+Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
+one being used for the operator)\
+
+START\
+//Input/Output\
+
+Input number 1\
+Input Operator\
+Input number 2\
+
+//Processing\
+
+If ‘+’ is used as an operator then\
+Add number 1 and number 2\
+Else if ‘–‘ is used as an operator then \
+Subtract number 2 from number 1\
+
+//Output
+
+Print answer\
+
+END\
+
