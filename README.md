@@ -49,4 +49,27 @@ Print answer\
 
 END\
 
+**TASK 02**\
+Take three variables as input and add them without using the + operator (Use your head for this)\
+START\
+//Input/Output\
+
+Input number 1\
+Input number 2\
+Input number 3\
+
+//Processing\
+Print letter ‘X’ equal to Number 1\
+Print letter ‘X’ equal to Number 2\
+Print letter ‘X’ equal to Number 3\
+Now count the no of letter ‘X’ printed \
+//output\
+You will have the sum of three numbers at the end of your counting.\
+Print sum\
+END\
+
+***Introduction***\
+My name is Muhammad Mutahir.I Study in **FAST** university.I am studiying Cyber Security.\
+
+
 ![alt text](https://myoctocat.com/assets/images/base-octocat.svg)\
